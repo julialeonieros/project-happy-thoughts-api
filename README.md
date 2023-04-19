@@ -1,3 +1,6 @@
+Project nr. 19 / 21 - made during the Technigo Bootcamp
+___
+
 # Project Happy Thoughts API
 This project was made during the Technigo bootcamp. The goal was to use Express and MongoDB to build an API that will serve as the backend to the previous project "Happy thoughts", where you can send Twitter-like messages that are saved to a database. The API should therefore include endpoints for GET requests to return the data (i.e. messages), and to POST so you can send messages and press "like" on messages.
 
